@@ -25,11 +25,11 @@ Hay tantas razones estupendas para que los no-programadores utilicen Git cuando 
 
 Mi objetivo para hoy:
 
-> Proponer una analogía con Dropbox que ayude a perfiles no programadores entender el model mental de cómo funciona Git.
+> Proponer una analogía con Dropbox que ayude a perfiles no programadores entender el modelo mental de cómo funciona Git.
 
 Puede ayudarte si piensas en ello como algo parecido a Dropbox, para empezar. Es como Dropbox, pero con un montón de pasos más. Ten fe (de momento) de que más pasos valen la pena, y te iré explicando las diferencias. 
 
-Primero, una revisión rápida de cómo funciona Dropbox: varias personas pueden estar trabajando en el mismo archivo cada una en su ordenador, y mágicamente todos obtienen los cambios de los demás. En segundo plano, Dropbox está haciendo toda clase de cosas para que esto funcione. Con Git, acabas ayudando a hacer parte de este trabajo en segundo plano, y Git the lo agradece.
+Primero, una revisión rápida de cómo funciona Dropbox: varias personas pueden estar trabajando en el mismo archivo cada una en su ordenador, y mágicamente todos obtienen los cambios de los demás. En segundo plano, Dropbox está haciendo toda clase de cosas para que esto funcione. Con Git, acabas ayudando a hacer parte de este trabajo en segundo plano, y Git te lo agradece.
 
 ## Fácil como 4... 5... 6
 
@@ -62,7 +62,7 @@ Segunda diferencia: Dropbox sube tus archivos inmediatamente (o al menos lo inte
 
 La siguiente diferencia es la descarga. ¿Puedes imaginarte la diferencia? Efectivamente, mientras que Dropbox descarga los nuevos cambios automáticamente, Git espera a que tú se lo ordenes.
 
-> Debes pedir explícitamente a Git que quieres _tirar_ de los cambios desde la nube (`pull` en lenguaje Git) a tu ordenador. Esto te trae la última copia completa de los documentos, incluyendo los cambios de todos los demás miembros del equipo.
+> Debes pedir explícitamente a Git que quieres _traer_ los cambios desde la nube (`pull` en lenguaje Git) a tu ordenador. Esto descarga la última copia completa de los documentos, incluyendo los cambios de todos los demás miembros del equipo.
 
 Conserva la fe. Incluso si esto parece menos mágico, y más trabajo, existen razones para tomarse estas molestias.
 
@@ -106,9 +106,9 @@ Puedes descubrir exactamente quién escribió la errata y cuándo, y entonces co
 
 > Generalmente Git es bastante mágico y adivina qué hacer si Sara y tú estabais ambos editando el mismo archivo.
 
-Por ejemplo si cambió el título del documento, y si tú añadiste algunas notas al pie, Git podrá resolverlo. Sin embargo, si tú cambias tu salario a 350.000e y Sara lo cambia a 40e, Git no va a saber qué hacer.
+Por ejemplo si cambió el título del documento, y si tú añadiste algunas notas al pie, Git podrá resolverlo. Sin embargo, si tú cambias tu salario a 350.000€ y Sara lo cambia a 40€, Git no va a saber qué hacer.
 
-Si Sara hizo push de su cambio antes que tú, Git te pedirá que tú lo resuelvas. Te dirá: "Sara dice que tú cobras 40e la hora, pero tú dices que cobras 350.000e. ¿Quién tiene razón?". Tú decides. Resuélvelo, guárdalo (haz commit) y haz push. Pero asegúrate de hacer otro pull antes, por si Sara detectó el error y cambió tu tarifa a 400.000e mientras tú lo corregías.
+Si Sara hizo push de su cambio antes que tú, Git te pedirá que tú lo resuelvas. Te dirá: "Sara dice que tú cobras 40€ la hora, pero tú dices que cobras 350.000€. ¿Quién tiene razón?". Tú decides. Resuélvelo, guárdalo (haz commit) y haz push. Pero asegúrate de hacer otro pull antes, por si Sara detectó el error y cambió tu tarifa a 400.000€ mientras tú lo corregías.
 
 ### Meta comentarios
 
@@ -116,7 +116,7 @@ Cada vez que guardas (o haces commit, más bien) de algunos cambios, Git te pide
 
 ### Estilo
 
-Como Git es un poco más manual, se sugieren unos pocos cambios estilísticos para que todo el mundo sea más feliz. Primero, pequeños cambios. Deberías hacer un commit cada vez que terminas de hacer una modificación parcial coherente. Por ejemplo, si estás cambiando tu salario, y el de Sara, primero haz un commit con tu ascenso y un mensaje de commit como "Ajustar el salario según méritos", y luego ajusta el salario de Sara con un mensaje de commit como "Equilibrar el presupuesto". Los buenos mensajes de commit (informativos) son muy apreciados en la comunidad Git.
+Como Git es un poco más manual, se sugieren unos pocos cambios estilísticos para que todo el mundo sea más feliz. Primero, hacer pequeños cambios. Deberías hacer un commit cada vez que terminas de hacer una modificación parcial coherente. Por ejemplo, si estás cambiando tu salario, y el de Sara, primero haz un commit con tu ascenso y un mensaje de commit como "Ajustar el salario según méritos", y luego ajusta el salario de Sara con un mensaje de commit como "Equilibrar el presupuesto". Los buenos mensajes de commit (informativos) son muy apreciados en la comunidad Git.
 
 Dada la naturaleza de resolver conflictos, Git también prefiere texto plano. Las imágenes son mucho más difíciles para Git (y para ti) de combinar (o merge) si dos personas las cambian a la vez. Así que cada vez que puedas, utiliza un formato de texto plano (como HTML o Markdown).
 

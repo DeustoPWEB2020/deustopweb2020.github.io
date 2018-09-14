@@ -4,3 +4,13 @@
 @import "{{ site.theme }}";
 
 small { display: inline-block; }
+
+div.tareas {
+	padding: 1em 1.2em;
+	background-color: #f4f4f4;
+
+	ol, ul {
+		margin-bottom: 0;
+	}
+}
+

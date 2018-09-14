@@ -6,7 +6,7 @@ Repositorio Git para las prácticas de la asignatura Proyectos para la web, Grad
 
 - [**Sublime Text**](https://www.sublimetext.com/) es un editor de texto plano. [Descarga](https://www.sublimetext.com/3) e instala la versión apropiada para tu equipo, y [configúralo](sublime-config.md) (opcional) para trabajar de manera más cómoda 
 - [**GitHub**](https://github.com/) es una plataforma colaborativa de control de versiones. Por ahora [abre una cuenta](https://github.com/join?source=header-home) con tu correo de OpenDeusto (si quieres, puedes solicitar el [Student Developer Pack](https://education.github.com/pack) con descuentos y ventajas en varias herramientas muy útiles para el desarrollo web)
-- [**GitKraken**](https://www.gitkraken.com/download) es un cliente Git para la gestión local y online de nuestros repositorios
+- [**GitKraken**](https://www.gitkraken.com/) es un cliente Git para la gestión local y online de nuestros repositorios. [Descarga](https://www.gitkraken.com/download) e instala la versión apropiada para tu equipo
 - [**Markdown**](https://markdown.es) es un lenguaje que permite aportar estructura a documentos de texto plano. No hace falta instalar nada
 - Conocimientos básicos de **HTML y CSS**. Podéis (como referencia):
     - revisar el curso de Codecademy que hicisteis durante el curso pasado;

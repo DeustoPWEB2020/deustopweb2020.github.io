@@ -27,6 +27,7 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
 
 ## Índice de contenidos de este repositorio
 
+- Los directorios `_layouts`y  `assets`, y el archivo `_config.yml`, configuran la personalización de [la versión _sitio web_ de este repositorio](http://deustopweb2017.github.io)
 - [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md)
 - [Glosario de términos](glosario.md) relacionados con git y GitHub, con traducción y descripción
 - [Guía de sintaxis de Markdown](markdown.md) para editar documentos de texto plano

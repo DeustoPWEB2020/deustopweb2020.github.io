@@ -14,7 +14,7 @@ Repositorio Git para las prácticas de la asignatura Proyectos para la web, Grad
     - consultar estos manuales online: [Introducción a XHTML](http://librosweb.es/libro/xhtml/) e [Introducción a CSS](http://librosweb.es/libro/css/)
 
 <div class="tareas" markdown="1">
-    <i class="fa fa-tasks"></i>
+<i class="fa fa-tasks"></i>
 
 Una vez lo tengas todo instalado, empieza por estas tareas:
 

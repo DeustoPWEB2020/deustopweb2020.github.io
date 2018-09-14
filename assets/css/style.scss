@@ -8,9 +8,19 @@ small { display: inline-block; }
 div.tareas {
 	padding: 1em 1.2em;
 	background-color: #f4f4f4;
+	margin-bottom: 20px;
 
 	ol, ul {
 		margin-bottom: 0;
 	}
+
+	i.fa { 
+		font-size:50px; 
+		float:left;
+	}
+
+	p { padding-left:70px; }
+
+	ol { padding-left:87px; }
 }
 

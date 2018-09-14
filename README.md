@@ -15,6 +15,8 @@ Repositorio Git para las prácticas de la asignatura Proyectos para la web, Grad
 
 <div class="tareas" markdown="1">
 
+<i class="fa fa-tasks"></i>
+
 Una vez lo tengas todo instalado, empieza por estas tareas:
 
 1. Lee el documento [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md) para hacerte una primera idea de qué es todo esto de git

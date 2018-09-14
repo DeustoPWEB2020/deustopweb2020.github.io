@@ -20,7 +20,11 @@ div.tareas {
 	}
 
 	p { padding-left:70px; }
-	p:first-child { padding-left:0; }
+
+	p:first-child { 
+		padding-left:0; 
+		float:left; 
+	}
 
 	ol { padding-left:87px; }
 }

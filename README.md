@@ -13,8 +13,7 @@ Repositorio Git para las prácticas de la asignatura Proyectos para la web, Grad
     - o los tutoriales oficiales más avanzados del W3C para [HTML5](https://www.w3schools.com/html/) y [CSS](https://www.w3schools.com/css/); o
     - consultar estos manuales online: [Introducción a XHTML](http://librosweb.es/libro/xhtml/) e [Introducción a CSS](http://librosweb.es/libro/css/)
 
-<div class="tareas" markdown="1">
-<i class="fa fa-tasks"></i>
+<div class="tareas" markdown="1"><i class="fa fa-tasks"></i>
 
 Una vez lo tengas todo instalado, empieza por estas tareas:
 

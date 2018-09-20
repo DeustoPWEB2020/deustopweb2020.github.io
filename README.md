@@ -24,7 +24,7 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
 2. Empieza a completar estos tutoriales básicos de git/GitHub: 
     - [GitHub101: Introducción a GitHub](https://services.github.com/on-demand/intro-to-github/es/) (tiempo estimado: 30 minutos) 
     - [Learning Lab Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) (en inglés)
-3. Descarga [git-it](https://github.com/mberasategi/git-it-electron/releases/tag/4.3.0-es_ES) y completa el tutorial. Cuando acabes esto ya tienes los conocimentos básicos que te harán falta para manejarte con git durante este semestre
+3. Descarga [git-it](https://github.com/mberasategi/git-it-electron/releases/tag/4.3.0-es_ES) y completa el tutorial. Cuando acabes esto (y aparezca tu nombre [en el sitio web del tutorial](http://jlord.us/patchwork/)) ya tienes los conocimentos básicos que te harán falta para manejarte con git durante este semestre
 4. Revisa la [sintaxis de Markdown](markdown.md)
 
 </div>

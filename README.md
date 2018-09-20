@@ -44,3 +44,12 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
 ## Libro oficial de git
 
 Siempre podéis recurrir al [libro oficial de git](https://git-scm.com/book/es/v2) para saber más.
+
+
+<!-- 
+
+    More resources:
+
+    - Fork'n'go http://jlord.us/forkngo/
+
+-->

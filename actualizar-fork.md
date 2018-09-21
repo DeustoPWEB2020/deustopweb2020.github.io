@@ -9,13 +9,14 @@ git remote add upstream https://github.com/DeustoPWEB2018/Elementos-de-la-UX.git
 Después, cada vez que el repositorio central tenga cambios que quieres traer a tu copia personal. Para esto:
 
 1. Traer al branch master de tu ordenador los cambios que haya habido en el repositorio central:
-
-```
-git pull upstream master
-```
-
+    ```
+    git pull upstream master
+    ```
 2. Actualizar también tu copia personal en la nube con estos cambios:
-
-```
-git push origin master
-```
+    ```
+    git push origin master
+    ```
+3. Borrar el branch sobre el que has estado trabajando, también en tu ordenador (porque ya has incorporado esos cambios a través del repositorio central)
+    ```
+    git branch -d nombredelbranch
+    ```

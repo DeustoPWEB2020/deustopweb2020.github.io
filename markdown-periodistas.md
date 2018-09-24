@@ -66,12 +66,13 @@ Para añadir una imagen: ![Imagen](fuente de la imagen, una url)
 ```
 
 Para más ejemplos y opciones avanzadas de sintaxis revisa:
-- [Una guía de Markdown para escribir para la web de forma más sencilla (en inglés)](https://scotch.io/bar-talk/a-guide-to-markdown-for-simpler-web-writing
-).
+<!-- - [Una guía de Markdown para escribir para la web de forma más sencilla (en inglés)](https://scotch.io/bar-talk/a-guide-to-markdown-for-simpler-web-writing
+). -->
+- [Guía de sintaxis de Markdown](markdown.md)
 - [Documentación oficial del creador de Markdown John Gruber (inglés)](https://daringfireball.net/projects/markdown/)
 - [Glosario y trucos de Markwdown (inglés)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Guía visual de Markdown y tutoriales (inglés)](http://commonmark.org/help/)
-- [Lista de variaciones de sintaxis de Markdown creadas por distintas organizaciones](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors)
+<!-- - [Lista de variaciones de sintaxis de Markdown creadas por distintas organizaciones](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors) -->
 
 ## Elige y prueba un editor de Markdown
 

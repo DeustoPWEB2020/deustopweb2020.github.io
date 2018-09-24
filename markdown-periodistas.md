@@ -104,7 +104,7 @@ Si sigues buscando verás que hay [muchas](https://www.slant.co/topics/899/~best
   :tada:
 ```
 
-Para finalizar, realiza este [ejercicio de escritura con Markdown, fork y pull request](https://github.com/craft2es/markdownparaperiodistas/ejercicio_markdown_pullrequest.md).
+<!-- Para finalizar, realiza este [ejercicio de escritura con Markdown, fork y pull request](https://github.com/craft2es/markdownparaperiodistas/ejercicio_markdown_pullrequest.md). -->
 
 ---
 *La guía [Markdown para periodistas](https://github.com/craft2es/markdownparaperiodistas) es parte de los materiales del curso Craft 2 del Programa Bilingüe de la [Maestría de Periodismo de CUNY](https://www.journalism.cuny.edu/academics/subject-concentrations/spanish-language-journalism/)*

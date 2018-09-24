@@ -56,6 +56,7 @@ El trabajo del contenido adicional que realizaréis en grupos expertos se recoge
 - [Instrucciones para actualizar tu fork](actualizar-fork.md) cada vez que se incorporen cambios en un repositorio central
 - [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md)
 - [Glosario de términos](glosario.md) relacionados con git y GitHub, con traducción y descripción
+- [¿Qué es Markdown y por qué los periodistas lo usan?](markdown-periodistas.ms) 
 - [Guía de sintaxis de Markdown](markdown.md) para editar documentos de texto plano
 - [Configuración de Sublime Text](sublime-config.md) para trabajar más cómodamente con documentos en formato Markdown
 - Los directorios `_layouts` y `assets`, y el archivo `_config.yml`, configuran la personalización de [la versión _sitio web_ de este repositorio](http://deustopweb2017.github.io)

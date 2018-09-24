@@ -29,10 +29,31 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
 
 </div>
 
+<div class="tareas" markdown="1">
+<i class="fa fa-tasks"></i>
+
+### Arrancar el repositorio para el trabajo con expertos
+
+El trabajo del contenido adicional que realizaréis en grupos expertos se recogerá en el repositorio [Elementos de la UX](https://github.com/DeustoPWEB2018/Elementos-de-la-UX), sobre el que trabajaremos todas las personas de clase. Accede al repositorio y sigue las instrucciones que encontrarás allí.
+
+<!--
+### Arrancar el repositorio para el proyecto en equipo
+
+1. Accede a la [tarea en GitHub Classroom](https://classroom.github.com/g/oowJ1Evs), y haz login si es necesario
+2. Selecciona tu email de OpenDeusto de la lista
+3. Si aparece tu grupo en la siguiente página, selecciónalo. Si no aparece, escribe el nombre de tu grupo en el campo **Create a new team**. Hazlo usando **literalmente** uno de estos nombres: `Migraciones`, `Ocio` o `Género`
+4. Haz clic en **Accept assignment**
+5. ¡Hecho! Vuestro repositorio de equipo se habrá creado: _Your assignment has been created here: https://github.com/DeustoPWEB2018/NOMBREDELREPO_
+6. Accede al repositorio recién creado y sigue con las indicaciones que encontrarás allí
+-->
+
+</div>
+
 <!--     - [Learning Lab Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) (en inglés) -->
 
 ## Índice de contenidos de este repositorio
 
+- [Instrucciones para actualizar tu fork](actualizar-fork.md) cada vez que se incorporen cambios en un repositorio central
 - [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md)
 - [Glosario de términos](glosario.md) relacionados con git y GitHub, con traducción y descripción
 - [Guía de sintaxis de Markdown](markdown.md) para editar documentos de texto plano

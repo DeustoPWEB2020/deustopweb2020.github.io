@@ -79,8 +79,9 @@ Mientras un editor de texto ofrece un modo sencillo y rápido de crear un docume
 
 Si eres periodista, como ya leíste, quizás tengas que escribir un artículo en Markdown, convertirlo a HTML y añadirle estilos en cascada (CSS) y scripts de Javascript para la puesta en página web. O bien, tendrás que enviar el archivo `.md` a un editor, a un colega del área de gráficos interactivos o a un desarrollador web. Lo más probable es que todo lo anterior lo estarás haciendo dentro de un repositorio de Github al cual tu equipo y tú tienen acceso.
 
-Ya que ése es tu caso, te irá mucho mejor si escoges y utilizas uno de los muchos editores de Markdown existentes. Puedes buscar ["mejores editores de Markdown"](https://www.google.com/search?q=mejor+editor+de+markdown&ie=utf-8&oe=utf-8&client=firefox-b-ab) o [“best Markdown editors”](https://www.google.com/search?num=50&client=firefox-b-ab&q=%22best+markdown+editors%22&oq=%22best+markdown+editors%22&gs_l=serp.3..0l2j0i22i30k1l8.6222.10539.0.10858.7.7.0.0.0.0.79.391.6.6.0.foo%2Cewh%3D0%2Cnso-enksa%3D0%2Cnso-enfk%3D1%2Cnso-usnt%3D1%2Cnso-qnt-npqp%3D0-2%2Cnso-qnt-npdq%3D0-5%2Cnso-qnt-npt%3D0-13%2Cnso-qnt-ndc%3D300%2Ccspa-dspm-nm-mnp%3D0-065%2Ccspa-dspm-nm-mxp%3D0-1625%2Cnso-unt-npqp%3D0-2%2Cnso-unt-npdq%3D0-35%2Cnso-unt-npt%3D0-1%2Cnso-unt-ndc%3D300%2Ccspa-uipm-nm-mnp%3D0-0125%2Ccspa-uipm-nm-mxp%3D0-0875%2Ccfro%3D1%2Cewh%3D0%2Cnso-enksa%3D0%2Cnso-enfk%3D0...0...1.1.64.serp..1.6.390...0i67k1j0i7i30k1j0i13k1j0i30k1.4y9J40xDMGw) para descubrir el que satisfaga tus necesidades.
+Ya que ése es tu caso, te irá mucho mejor si escoges y utilizas uno de los muchos editores de Markdown existentes. Puedes buscar ["mejores editores de Markdown"](https://www.google.com/search?q=mejor+editor+de+markdown) o [“best Markdown editors”](https://www.google.com/search?q=%22best+markdown+editors%22) para descubrir el que satisfaga tus necesidades.
 
+<!--
 Preparé una lista corta de editores favoritos para escritorio y para trabajo en línea. Todos permiten guardar y sincronizar tu trabajo con servicios en la nube, así como prever los cambios que realizas en tiempo real para ahorrar tiempo y energía.
 
 1. [Stackedit](https://stackedit.io): Editor en línea gratuito, permite sincronizar y guardar documentos en Google Drive y Dropbox, y compartirlos. Una buena introducción a Markdown.
@@ -92,6 +93,7 @@ Preparé una lista corta de editores favoritos para escritorio y para trabajo en
 7. [Classeur.io](http://classeur.io/): Freemium online y desktop. De los creadores de Stackedit.
 
 Si sigues buscando verás que hay [muchas](https://www.slant.co/topics/899/~best-markdown-editor-for-os-x), muchsimas [más](https://speckyboy.com/markdown-tools-editors/) opciones. Prueba los que te parezcan hasta encontrar tu editor ideal.
+-->
 
 ¿Mencioné que puedes añadir [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) en algunas versiones extendidas de Markdown, como la que usa Github?
 

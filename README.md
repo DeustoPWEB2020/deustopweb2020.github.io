@@ -23,7 +23,7 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
 1. Lee el documento [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md) para hacerte una primera idea de qué es todo esto de git
 2. Empieza a completar estos tutoriales básicos de git/GitHub: 
     - [GitHub101: Introducción a GitHub](https://services.github.com/on-demand/intro-to-github/es/) (tiempo estimado: 30 minutos) 
-3. Descarga [git-it](https://github.com/mberasategi/git-it-electron/releases/tag/4.3.0-es_ES) (usuarios de Mac [aquí](https://github.com/jlord/git-it-electron/releases/download/4.3.0/Git-it-Mac-x64.zip)) y completa el tutorial. Cuando acabes esto (y aparezca tu nombre [en el sitio web del tutorial](http://jlord.us/patchwork/)) ya tienes los conocimentos básicos que te harán falta para manejarte con git durante este semestre
+3. Descarga [git-it](https://github.com/jlord/git-it-electron/releases/tag/4.4.0) y completa el tutorial. Cuando acabes esto (y aparezca tu nombre [en el sitio web del tutorial](http://jlord.us/patchwork/)) ya tienes los conocimentos básicos que te harán falta para manejarte con git durante este semestre
 4. Entrega dos capturas de pantalla que muestren que has completado ambos tutoriales en [la tarea de ALUD](https://alud.deusto.es/mod/assign/view.php?id=377357)
 5. Revisa la [sintaxis de Markdown](markdown.md)
 

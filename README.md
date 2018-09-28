@@ -36,7 +36,6 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
 
 El trabajo del contenido adicional que realizaréis en grupos expertos se recogerá en el repositorio [Elementos de la UX](https://github.com/DeustoPWEB2018/Elementos-de-la-UX), sobre el que trabajaremos todas las personas de clase. Accede al repositorio y sigue las instrucciones que encontrarás allí.
 
-<!--
 ### Arrancar el repositorio para el proyecto en equipo
 
 1. Accede a la [tarea en GitHub Classroom](https://classroom.github.com/g/oowJ1Evs), y haz login si es necesario
@@ -45,7 +44,6 @@ El trabajo del contenido adicional que realizaréis en grupos expertos se recoge
 4. Haz clic en **Accept assignment**
 5. ¡Hecho! Vuestro repositorio de equipo se habrá creado: _Your assignment has been created here: https://github.com/DeustoPWEB2018/NOMBREDELREPO_
 6. Accede al repositorio recién creado y sigue con las indicaciones que encontrarás allí
--->
 
 </div>
 

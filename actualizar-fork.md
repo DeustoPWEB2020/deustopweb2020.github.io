@@ -26,5 +26,6 @@ Después, cada vez que el repositorio central tenga cambios que quieres traer a 
     
 3. Puede que quieras también borrar el branch sobre el que has estado trabajando, también en tu ordenador (porque ya has incorporado esos cambios a través del repositorio central)
     ```
-    git branch -d NOMBREDEBRANCH
+    git checkout master
+    git branch -D NOMBREDEBRANCH
     ```

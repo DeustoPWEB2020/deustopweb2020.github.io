@@ -2,15 +2,9 @@
 
 Solamente la primera vez, tienes que indicar a tu repositorio personal dónde está ubicado el repositorio central. Para esto:
 
-- Si lo estás haciendo para el repositorio de contenido adicional/trabajo con expertos:
-    ```
-    git remote add upstream https://github.com/DeustoPWEB2018/Elementos-de-la-UX.git
-    ```
-
-- Si lo estás haciendo para el repositorio del proyecto web de tu grupo:
-    ```
-    git remote add upstream https://github.com/TUNOMBREDEUSUARIO/proyectoweb-VUESTROTEMA.git
-    ```
+```
+git remote add upstream https://github.com/TUNOMBREDEUSUARIO/proyectoweb-VUESTROTEMA.git
+```
 
 Después, cada vez que el repositorio central tenga cambios que quieres traer a tu copia personal:
 

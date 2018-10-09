@@ -1,25 +1,25 @@
-# Instrucciones para actualizar el fork en tu cuenta personal con las últimas modificaciones del repositorio central
+# Instrucciones para actualizar tu copia local con las últimas modificaciones del repositorio central
 
+<!--
 Solamente la primera vez, tienes que indicar a tu repositorio personal dónde está ubicado el repositorio central. Para esto:
 
 ```
 git remote add upstream https://github.com/TUNOMBREDEUSUARIO/proyectoweb-VUESTROTEMA.git
 ```
 
-Después, cada vez que el repositorio central tenga cambios que quieres traer a tu copia personal:
+Después, -->
 
-1. Traer al branch master de tu ordenador los cambios que haya habido en el repositorio central:
-    ```
-    git pull upstream master
-    ```
+Cada vez que el repositorio central tenga cambios que quieres traer a tu copia personal:
 
-2. Actualizar también tu copia personal en la nube con estos cambios:
-    ```
-    git push origin master
-    ```
-    
+1. Cámbiate al branch `master`:
+```
+git checkout master
+```
+2. Trae los cambios que ya se han incorporado en el repositorio central:
+```
+git pull origin master
+```
 3. Puede que quieras también borrar el branch sobre el que has estado trabajando, también en tu ordenador (porque ya has incorporado esos cambios a través del repositorio central)
-    ```
-    git checkout master
-    git branch -D NOMBREDEBRANCH
-    ```
+```
+git branch -D NOMBREDEBRANCH
+```

@@ -1,4 +1,4 @@
-# Proyectos para la Web 2018-2019
+# Proyectos para la Web 2019-2020
 
 Repositorio Git para las prácticas de la asignatura Proyectos para la web, Grado en Comunicación de la Universidad de Deusto. Aquí se recogerán las cuestiones técnicas relativas al trabajo con Git para las prácticas en la asignatura.
 

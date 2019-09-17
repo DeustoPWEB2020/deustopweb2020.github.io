@@ -24,16 +24,16 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
 1. Lecturas introductorias:
     - [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md) <!--para hacerte una primera idea de qué es todo esto de git-->
     - [Guía de Git para comunicadores, organizaciones sociales y cocineros en general](https://comunicacionabierta.net/2017/02/git-comunicadores-sociales/)
-    - [Pro Git. Inicio: sobre el control de versiones](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones)<!--
-    - [Siete formas de usar GitHub sin saber "picar código"](https://geekytheory.com/siete-maneras-de-usar-github)
-    - [GitHub tutorials and resources for journalists](https://www.poynter.org/reporting-editing/2015/github-tutorials-and-resources-for-journalists/)
-    - [How journalists can get started with GitHub](https://ijnet.org/en/story/how-journalists-can-get-started-github) 
-2. Empieza a completar estos tutoriales básicos de git/GitHub: 
-    - [GitHub101: Introducción a GitHub](https://services.github.com/on-demand/intro-to-github/es/) (tiempo estimado: 30 minutos) <!-- https://rogerdudler.github.io/git-guide/index.es.html  -->
+    - [Pro Git. Inicio: sobre el control de versiones](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones)
 3. Descarga [git-it](https://github.com/jlord/git-it-electron/releases/tag/4.4.0) y completa el tutorial. Cuando acabes esto (y aparezca tu nombre [en el sitio web del tutorial](http://jlord.us/patchwork/)) ya tienes los conocimentos básicos que te harán falta para manejarte con git durante este semestre
 <!-- 4. Entrega dos capturas de pantalla que muestren que has completado ambos tutoriales en [la tarea de ALUD](https://alud.deusto.es/mod/assign/view.php?id=377357) -->
 5. Revisa la [sintaxis de Markdown](markdown.md)
 
+<!-- Más lecturas:    - [Siete formas de usar GitHub sin saber "picar código"](https://geekytheory.com/siete-maneras-de-usar-github)
+    - [GitHub tutorials and resources for journalists](https://www.poynter.org/reporting-editing/2015/github-tutorials-and-resources-for-journalists/)
+    - [How journalists can get started with GitHub](https://ijnet.org/en/story/how-journalists-can-get-started-github) 
+2. Empieza a completar estos tutoriales básicos de git/GitHub: 
+    - [GitHub101: Introducción a GitHub](https://services.github.com/on-demand/intro-to-github/es/) (tiempo estimado: 30 minutos) <!-- https://rogerdudler.github.io/git-guide/index.es.html  -->
 </div>
 
 <!-- <div class="tareas" markdown="1">

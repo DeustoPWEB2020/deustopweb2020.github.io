@@ -25,18 +25,18 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
     - [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md) <!--para hacerte una primera idea de qué es todo esto de git-->
     - [Guía de Git para comunicadores, organizaciones sociales y cocineros en general](https://comunicacionabierta.net/2017/02/git-comunicadores-sociales/)
     - [Pro Git. Inicio: sobre el control de versiones](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones)
-    - [Siete formas de usar GitHub sin saber "picar código"](https://geekytheory.com/siete-maneras-de-usar-github)
+<!--     - [Siete formas de usar GitHub sin saber "picar código"](https://geekytheory.com/siete-maneras-de-usar-github)
     - [GitHub tutorials and resources for journalists](https://www.poynter.org/reporting-editing/2015/github-tutorials-and-resources-for-journalists/)
-    - [How journalists can get started with GitHub](https://ijnet.org/en/story/how-journalists-can-get-started-github)
-2. Empieza a completar estos tutoriales básicos de git/GitHub: 
-    - [GitHub101: Introducción a GitHub](https://services.github.com/on-demand/intro-to-github/es/) (tiempo estimado: 30 minutos) <!-- https://rogerdudler.github.io/git-guide/index.es.html  -->
+    - [How journalists can get started with GitHub](https://ijnet.org/en/story/how-journalists-can-get-started-github) -->
+<!-- 2. Empieza a completar estos tutoriales básicos de git/GitHub: 
+    - [GitHub101: Introducción a GitHub](https://services.github.com/on-demand/intro-to-github/es/) (tiempo estimado: 30 minutos) <!-- https://rogerdudler.github.io/git-guide/index.es.html  --> -->
 3. Descarga [git-it](https://github.com/jlord/git-it-electron/releases/tag/4.4.0) y completa el tutorial. Cuando acabes esto (y aparezca tu nombre [en el sitio web del tutorial](http://jlord.us/patchwork/)) ya tienes los conocimentos básicos que te harán falta para manejarte con git durante este semestre
-4. Entrega dos capturas de pantalla que muestren que has completado ambos tutoriales en [la tarea de ALUD](https://alud.deusto.es/mod/assign/view.php?id=377357)
+<!-- 4. Entrega dos capturas de pantalla que muestren que has completado ambos tutoriales en [la tarea de ALUD](https://alud.deusto.es/mod/assign/view.php?id=377357) -->
 5. Revisa la [sintaxis de Markdown](markdown.md)
 
 </div>
 
-<div class="tareas" markdown="1">
+<!-- <div class="tareas" markdown="1">
 <i class="fa fa-tasks"></i>
 
 ### Arrancar el repositorio para el trabajo con expertos
@@ -52,13 +52,13 @@ El trabajo del contenido adicional que realizaréis en grupos expertos se recoge
 5. ¡Hecho! Vuestro repositorio de equipo se habrá creado: _Your assignment has been created here: https://github.com/DeustoPWEB2018/NOMBREDELREPO_
 6. Accede al repositorio recién creado y sigue con las indicaciones que encontrarás allí
 
-</div>
+</div> -->
 
 <!--     - [Learning Lab Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) (en inglés) -->
 
 ## Índice de contenidos de este repositorio
 
-- [Instrucciones para actualizar tu fork](actualizar-fork.md) cada vez que se incorporen cambios en un repositorio central
+<!-- - [Instrucciones para actualizar tu fork](actualizar-fork.md) cada vez que se incorporen cambios en un repositorio central -->
 - [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md)
 - [Glosario de términos](glosario.md) relacionados con git y GitHub, con traducción y descripción
 - [¿Qué es Markdown y por qué los periodistas lo usan?](markdown-periodistas.ms) 

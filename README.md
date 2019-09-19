@@ -7,11 +7,7 @@ Repositorio Git para las prácticas de la asignatura Proyectos para la web, Grad
 - [**Sublime Text**](https://www.sublimetext.com/) es un editor de texto plano. [Descarga](https://www.sublimetext.com/3) e instala la versión apropiada para tu equipo, y [configúralo](sublime-config.md) (opcional) para trabajar de manera más cómoda 
 - [**GitHub**](https://github.com/) es una plataforma colaborativa de control de versiones. Por ahora [abre una cuenta](https://github.com/join?source=header-home) con tu correo de OpenDeusto (si quieres, puedes solicitar el [Student Developer Pack](https://education.github.com/pack) con descuentos y ventajas en varias herramientas muy útiles para el desarrollo web)
 - [**Markdown**](https://markdown.es) es un lenguaje que permite aportar estructura a documentos de texto plano. No hace falta instalar nada
-- Conocimientos básicos de **HTML y CSS**. Podéis (como referencia):
-    - revisar el curso de Codecademy que hicisteis durante el curso pasado;
-    - seguir este brevísimo tutorial a modo de recordatorio: [Comenzando con HTML + CSS](https://www.w3.org/Style/Examples/011/firstcss.es.html#reading);
-    - o los tutoriales oficiales más avanzados del W3C para [HTML5](https://www.w3schools.com/html/) y [CSS](https://www.w3schools.com/css/); o
-    - consultar estos manuales online: [Introducción a XHTML](http://librosweb.es/libro/xhtml/) e [Introducción a CSS](http://librosweb.es/libro/css/)
+- Conocimientos básicos de **HTML y CSS**
 
 <!-- - [**GitKraken**](https://www.gitkraken.com/) es un cliente Git para la gestión local y online de nuestros repositorios. [Descarga](https://www.gitkraken.com/download) e instala la versión apropiada para tu equipo -->
 
@@ -55,6 +51,19 @@ El trabajo del contenido adicional que realizaréis en grupos expertos se recoge
 </div> -->
 
 <!--     - [Learning Lab Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) (en inglés) -->
+
+<div class="tareas" markdown="1">
+<i class="fa fa-tasks"></i>
+
+### HTML y CSS
+
+- revisar el curso de Codecademy que hicisteis durante el curso pasado;
+- Brevísimo tutorial a modo de recordatorio: [Comenzando con HTML + CSS](https://www.w3.org/Style/Examples/011/firstcss.es.html);
+- o los tutoriales oficiales más avanzados del W3C para [HTML5](https://www.w3schools.com/html/) y [CSS](https://www.w3schools.com/css/); o
+- consultar estos manuales online: [Introducción a XHTML](https://uniwebsidad.com/libros/xhtml) e [Introducción a CSS](https://uniwebsidad.com/libros/css)
+- 
+</div>
+
 
 ## Índice de contenidos de este repositorio
 

@@ -10,3 +10,22 @@
     + [Git para usuarios de Dropbox](git-para-usuarios-dropbox.html)
     + [Guía de Git para comunicadores, organizaciones sociales y cocineros en general](https://comunicacionabierta.net/2017/02/git-comunicadores-sociales/)
     + Chacon y Straub (2014). "Capítulo 1. Inicio - Sobre el Control de Versiones", en [_Pro Git_](https://git-scm.com/book/es/v2), págs. 9-22
+
+## Semana 2 (19 de septiembre)
+
+- Lean UX
+    + Jeff Gothlef y Josh Seiden (2014), "Sección I: Introducción y principios" en _Lean UX: Cómo aplicar los principios Lean a la mejora de la experiencia de usuario_ (Universidad Internacional de la Rioja)
+- HTML + CSS
+    + Håkon Wium Lie y Bert Bos (1999), ["Capítulo 2: CSS"](http://www.spanish-translator-services.com/espanol/t/CSS.htm) en _Cascading Style Sheets, designing for the Web_ (Addison Wesley, ISBN 0-201-59625-3) 
+    + Javier Eguíluz, [Capítulo 2: Características básicas](https://uniwebsidad.com/libros/xhtml/capitulo-2) en _Introducción a XHTML_
+
+<!-- 
+0. Introducción: diseño de la experiencia de usuario y metodologías ágiles de desarrollo
+1. Objetivos y enfoque del proyecto
+2. Investigación de usuarios
+3. Estrategia de contenido
+4. Diseño y redacción para la web
+5. Wireframes y prototipos
+6. Producto Mínimo Viable y experimentos
+7. Control de versiones y lenguajes de marcado 
+-->

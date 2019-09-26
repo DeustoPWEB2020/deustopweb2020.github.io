@@ -61,7 +61,7 @@ El trabajo del contenido adicional que realizaréis en grupos expertos se recoge
 - Brevísimo tutorial a modo de recordatorio: [Comenzando con HTML + CSS](https://www.w3.org/Style/Examples/011/firstcss.es.html);
 - o los tutoriales oficiales más avanzados del W3C para [HTML5](https://www.w3schools.com/html/) y [CSS](https://www.w3schools.com/css/); o
 - consultar estos manuales online: [Introducción a XHTML](https://uniwebsidad.com/libros/xhtml) e [Introducción a CSS](https://uniwebsidad.com/libros/css)
-- 
+
 </div>
 
 

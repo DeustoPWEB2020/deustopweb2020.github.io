@@ -19,6 +19,40 @@
     + Håkon Wium Lie y Bert Bos (1999), ["Capítulo 2: CSS"](http://www.spanish-translator-services.com/espanol/t/CSS.htm) en _Cascading Style Sheets, designing for the Web_ (Addison Wesley, ISBN 0-201-59625-3) 
     + Javier Eguíluz, [Capítulo 2: Características básicas](https://uniwebsidad.com/libros/xhtml/capitulo-2) en _Introducción a XHTML_
 
+## Semana 3 (26 de septiembre)
+
+- Jeff Gothlef y Josh Seiden (2014),_Lean UX: Cómo aplicar los principios Lean a la mejora de la experiencia de usuario_ (Universidad Internacional de la Rioja):
+    + Capítulo 3. Visión, marco y resultados
+    + Capítulo 5. PMV y experimentos
+    + Capítulo 6. _Feedback_ e investigación
+- Unger, Russ y Carolyn Chandler (2012). "Chapter 4. Project Objectives and Approach" en _A Project Guide to UX Design_, págs. 67-82
+
+<!-- 
+## Semana 4 (3 de octubre)
+
+## Semana 5 (10 de octubre)
+
+## Semana 6 (17 de octubre)
+
+## Semana 7 (24 de octubre)
+
+## Semana 8 (31 de octubre)
+
+## Semana 9 (7 de noviembre)
+
+## Semana 10 (14 de noviembre)
+
+## Semana 11 (21 de noviembre)
+
+## Semana 12 (28 de noviembre)
+
+## Semana 13 (5 de diciembre)
+
+## Semana 14 (12 de diciembre)
+
+## Semana 15 (19 de diciembre) ? 
+-->
+
 <!-- 
 0. Introducción: diseño de la experiencia de usuario y metodologías ágiles de desarrollo
 1. Objetivos y enfoque del proyecto

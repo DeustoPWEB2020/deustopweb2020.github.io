@@ -27,8 +27,14 @@
     + Capítulo 6. _Feedback_ e investigación
 - Unger, Russ y Carolyn Chandler (2012). "Chapter 4. Project Objectives and Approach" en _A Project Guide to UX Design_, págs. 67-82
 
-<!-- 
 ## Semana 4 (3 de octubre)
+
+- Brown, Dan M. (2011). "Chapter 5. Site Maps" en _Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition_, págs. 94-123
+- Halvorson, Christina (2012). "Chapter 5. Audit" en _Content Strategy for the Web, Second Edition_, pags. 46-67
+- Unger, Russ y Carolyn Chandler (2012). "Chapter 8. Content Strategy" en _A Project Guide to UX Design_, págs. 145-162
+- Unger, Russ y Carolyn Chandler (2012). "Chapter 10. Site Maps and Task Flows" en _A Project Guide to UX Design_, págs. 165-184
+
+<!-- 
 
 ## Semana 5 (10 de octubre)
 

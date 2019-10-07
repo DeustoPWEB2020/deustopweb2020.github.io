@@ -5,7 +5,7 @@
 - Introducción al diseño de la experiencia de usuario:
     + [User Experience White Paper. Bringing clarity to the concept of user experience](https://www.allaboutux.org/files/UX-WhitePaper.pdf)
     + Hassan Montero y Martín Fernández (2005), [La Experiencia del Usuario](http://www.nosolousabilidad.com/articulos/experiencia_del_usuario.htm)
-    + Unger y Chandler (2012). "Chapter 1. The TAO of UXD", en _A Project Guide to UX Design_, págs. 1-8 (en biblioteca)
+    + Unger y Chandler (2009). "Chapter 1. The TAO of UXD", en _A Project Guide to UX Design_, págs. 1-8 (en biblioteca)
 - Introducción a git (control de versiones):
     + [Git para usuarios de Dropbox](git-para-usuarios-dropbox.html)
     + [Guía de Git para comunicadores, organizaciones sociales y cocineros en general](https://comunicacionabierta.net/2017/02/git-comunicadores-sociales/)
@@ -25,14 +25,14 @@
     + Capítulo 3. Visión, marco y resultados
     + Capítulo 5. PMV y experimentos
     + Capítulo 6. _Feedback_ e investigación
-- Unger, Russ y Carolyn Chandler (2012). "Chapter 4. Project Objectives and Approach" en _A Project Guide to UX Design_, págs. 67-82
+- Unger, Russ y Carolyn Chandler (2009). "Chapter 4. Project Objectives and Approach" en _A Project Guide to UX Design_, págs. 67-82
 
 ## Semana 4 (3 de octubre)
 
 - Brown, Dan M. (2011). "Chapter 5. Site Maps" en _Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition_, págs. 94-123
 - Halvorson, Christina (2012). "Chapter 5. Audit" en _Content Strategy for the Web, Second Edition_, pags. 46-67
 - Unger, Russ y Carolyn Chandler (2012). "Chapter 8. Content Strategy" en _A Project Guide to UX Design_, págs. 145-162
-- Unger, Russ y Carolyn Chandler (2012). "Chapter 10. Site Maps and Task Flows" en _A Project Guide to UX Design_, págs. 165-184
+- Unger, Russ y Carolyn Chandler (2009). "Chapter 10. Site Maps and Task Flows" en _A Project Guide to UX Design_, págs. 165-184
 
 <!-- 
 

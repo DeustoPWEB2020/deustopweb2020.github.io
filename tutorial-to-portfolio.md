@@ -1,5 +1,7 @@
 # Paso a paso: del tutorial "Comunicar con Markdown" a mi portafolio personal para la asignatura
 
+Si tienes cualquier problema al llevar a cabo estos pasos, envíame un email o mencióname (escribiendo `@mberasategi`) en cualquier issue o pull request de tu repositorio explicando el problema.
+
 ## Paso 1. Renombrar el repositorio
 
 Vamos a configurar este repositorio para que funcione como vuestra página personal en GitHub y sirva como portafolio del trabajo individual que hacéis en la asignatura Proyectos para la web. Para esto, lo primero es renombrar el repositorio.

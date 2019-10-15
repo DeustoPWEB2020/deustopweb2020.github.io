@@ -4,7 +4,7 @@ Si tienes cualquier problema al llevar a cabo estos pasos, envíame un email o m
 
 ## Paso 1. Renombrar el repositorio
 
-Vamos a configurar este repositorio para que funcione como vuestra página personal en GitHub y sirva como portafolio del trabajo individual que hacéis en la asignatura Proyectos para la web. Para esto, lo primero es renombrar el repositorio.
+Vamos a configurar tu repositorio del tutorial "Comunicar usando Markdown" (en http://github.com/TUNOMBREDEUSUARIO/portafolio-markdown/ o http://github.com/TUNOMBREDEUSUARIO/markdown-portfolio/, si lo has hecho en inglés) para que funcione como vuestra página personal en GitHub y sirva como portafolio del trabajo individual que hacéis en la asignatura Proyectos para la web. Para esto, lo primero es renombrar el repositorio.
 
 Accede a la pestaña **Settings** y en "Repository name", cambia el nombre a:
 

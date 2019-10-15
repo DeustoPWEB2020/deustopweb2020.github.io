@@ -102,6 +102,7 @@ Vuestro portafolio personal incluirá actualizaciones periódicas en forma de bl
 2. En la pestaña **Code** de tu repositorio, haz clic en "Create new file"
 3. En el campo del nombre de archivo, nómbralo así: `_posts/2019-10-10-mi-primer-post.md`
 4. Los archivos de post deben tener este formato: 
+
 ```
 ---
 title: Título del post
@@ -110,6 +111,7 @@ date: 2019-10-10
 
 Texto del post
 ```
+
 5. Copia y pega ese texto, y escribe un texto de prueba donde dice "Texto del post".
 5. Haz scroll hasta la parte inferior de la página y escribe un mensaje de commit descriptivo
 6. Asegúrate de seleccionar "Create a new branch for this commit and start a pull request." y nombra el branch `convertir-en-blog`
@@ -131,9 +133,11 @@ Una vez hayas escogido el tema que te gusta, accede a su repositorio en GitHub (
 2. En la pestaña **Code** de tu repositorio, haz clic en el archivo `config.yml`
 3. Haz clic en el icono del lápiz (parte derecha) para editar el archivo
 4. Elimina la línea que dice `theme: jekyll-theme-cayman` y escribe en su lugar la referencia al repositorio remoto que contiene el tema que has elegido. En el caso del ejemplo anterior, lo siguiente: 
+
 ```
 remote_theme: poole/hyde
 ```
+
 5. Haz scroll hasta la parte inferior de la página y escribe un mensaje de commit descriptivo
 6. Asegúrate de seleccionar "Commit directly to the `master` branch." 
 12. Haz clic en "Commit changes"
@@ -147,6 +151,7 @@ A partir de ahora, además de poner en común las lecturas individuales en clase
 2. En la pestaña **Code** de tu repositorio, haz clic en "Create new file"
 3. En el campo del nombre de archivo, nómbralo así: `_posts/2019-10-10-mi-primer-post.md`. Esto creará el nuevo archivo dentro de la carpeta `_posts`
 4. Los archivos de post deben tener este formato: 
+
 ```
 ---
 title: Título del post
@@ -155,6 +160,7 @@ date: 2019-10-10
 
 Texto del post
 ```
+
 5. Copia y pega ese texto, modifica el título y la fecha del post, y escribe tus anotaciones para las lecturas donde dice "Texto del post".
 6. Formatea el texto usando la sintaxis Markdown (títulos, negritas/cursivas, listas, citas...)
 5. Haz scroll hasta la parte inferior de la página y escribe un mensaje de commit descriptivo

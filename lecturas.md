@@ -35,6 +35,7 @@
 - Unger, Russ y Carolyn Chandler (2009). "Chapter 10. Site Maps and Task Flows" en _A Project Guide to UX Design_, págs. 165-184
 
 - [ ] TAREA: Convertir el tutorial de Markdown en tu portafolio personal e incluir las anotaciones de estas lecturas en forma de post ([instrucciones](tutorial-to-portfolio))
+
 <!-- 
 
 ## Semana 5 (10 de octubre)

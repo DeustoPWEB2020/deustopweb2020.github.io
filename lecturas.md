@@ -34,14 +34,24 @@
 - Unger, Russ y Carolyn Chandler (2012). "Chapter 8. Content Strategy" en _A Project Guide to UX Design_, págs. 145-162
 - Unger, Russ y Carolyn Chandler (2009). "Chapter 10. Site Maps and Task Flows" en _A Project Guide to UX Design_, págs. 165-184
 
-- [ ] TAREA: Convertir el tutorial de Markdown en tu portafolio personal e incluir las anotaciones de estas lecturas en forma de post siguiendo estas [instrucciones](tutorial-to-portfolio)
-
-<!--
+- **TAREA:** Convertir el tutorial de Markdown en tu portafolio personal e incluir las anotaciones de estas lecturas en forma de post siguiendo estas [instrucciones](tutorial-to-portfolio)
 
 ## Semana 5 (10 de octubre)
 
+Ninguna. Trabajamos sobre portafolio personal.
+
 ## Semana 6 (17 de octubre)
 
+- Card sorting:
+    + UOC, [Card sorting](http://design-toolkit.recursos.uoc.edu/es/card-sorting/)
+    + Card sorting: Una técnica para la arquitectura de información \[[`PDF`](https://alud.deusto.es/mod/resource/view.php?id=560473)\]
+- Wireframes: 
+    + Brown, Dan M. (2001), "Chapter 7: Wireframes" en Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition, págs. 166-201
+    + Unger, Ross y Carolyn Chandler (2009). "Chapter 11: Wireframes and Annotations", en A Project Guide to UX Design, págs. 185-203
+    + Webdesdecero (2015), [Wireframes: qué son y cómo crearlos](https://webdesdecero.com/wireframes-que-son-y-como-crearlos/)
+    + Wikipedia, [Wireframe (diseño web)](https://es.wikipedia.org/wiki/Wireframe_(diseño_web))
+
+<!--
 ## Semana 7 (24 de octubre)
 
 ## Semana 8 (31 de octubre)

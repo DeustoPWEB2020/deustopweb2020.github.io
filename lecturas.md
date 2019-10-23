@@ -51,9 +51,18 @@ Ninguna. Trabajamos sobre portafolio personal.
     + Webdesdecero (2015), [Wireframes: qué son y cómo crearlos](https://webdesdecero.com/wireframes-que-son-y-como-crearlos/)
     + Wikipedia, [Wireframe (diseño web)](https://es.wikipedia.org/wiki/Wireframe_(diseño_web))
 
-<!--
 ## Semana 7 (24 de octubre)
 
+- Investigación de usuarios:
+    + Unger, Russ y Carolyn Chandler (2012). "Chapter 6. User Research" en _A Project Guide to UX Design_, págs. 120-147
+    + Samuel Gimeno Artigas (2016), ["Un proceso sencillo para hacer investigación de usuarios"](https://www.torresburriel.com/weblog/2016/03/22/un-proceso-sencillo-para-hacer-investigacion-de-usuarios/)
+    + Samuel Gimeno Artigas (2017), ["Tipos de investigación de usuarios enfocadas a diseño de UX"](https://www.torresburriel.com/weblog/2017/05/24/investigacion-de-usuarios-diseno-de-ux/)
+    + Misael León (2017), ["Cómo Hacer Investigación de Usuarios en Equipos Ágiles"](https://sg.com.mx/revista/54/c-mo-hacer-investigaci-n-usuarios-equipos-giles)
+- Personas:
+    + Alan Cooper (2001). "Capítulo 9. Un diseño para dar placer" en _Presos de la tecnología_, págs. 123-148
+    + Dan M. Brown (2011). "Chapter 3. Personas" en _Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition_, págs. 34-62
+
+<!--
 ## Semana 8 (31 de octubre)
 
 ## Semana 9 (7 de noviembre)

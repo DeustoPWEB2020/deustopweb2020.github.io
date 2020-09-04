@@ -1,13 +1,14 @@
-# Proyectos para la Web 2019-2020
+# Proyectos para la Web 2020-2021
 
 Repositorio Git para las prácticas de la asignatura Proyectos para la web, Grado en Comunicación de la Universidad de Deusto. Aquí se recogerán las cuestiones técnicas relativas al trabajo con Git para las prácticas en la asignatura.
 
 Éstas son las herramientas que vamos a utilizar:
 
-- [**Sublime Text**](https://www.sublimetext.com/) es un editor de texto plano. [Descarga](https://www.sublimetext.com/3) e instala la versión apropiada para tu equipo, y [configúralo](sublime-config.md) (opcional) para trabajar de manera más cómoda 
+- [**git**](https://git-scm.com/) es un sistema de control de versiones gratuito y de código abierto. Leeremos más sobre qué es exactamente. De momento, [descarga](https://code.visualstudio.com/) e instala la versión apropiada para tu equipo
 - [**GitHub**](https://github.com/) es una plataforma colaborativa de control de versiones. Por ahora [abre una cuenta](https://github.com/join?source=header-home) con tu correo de OpenDeusto (si quieres, puedes solicitar el [Student Developer Pack](https://education.github.com/pack) con descuentos y ventajas en varias herramientas muy útiles para el desarrollo web)
-- [**Markdown**](https://markdown.es) es un lenguaje que permite aportar estructura a documentos de texto plano. No hace falta instalar nada
-- Conocimientos básicos de **HTML y CSS**
+- [**Visual Studio Code**](https://code.visualstudio.com/) es un editor de texto plano. [Descarga](https://code.visualstudio.com/) e instala la versión apropiada para tu equipo<!-- , y [configúralo](sublime-config.md) (opcional) para trabajar de manera más cómoda  -->
+<!-- - [**Markdown**](https://markdown.es) es un lenguaje que permite aportar estructura a documentos de texto plano. No hace falta instalar nada, irás aprendiendo cómo utilizarlo
+- Conocimientos básicos de **HTML y CSS** -->
 
 <!-- - [**GitKraken**](https://www.gitkraken.com/) es un cliente Git para la gestión local y online de nuestros repositorios. [Descarga](https://www.gitkraken.com/download) e instala la versión apropiada para tu equipo -->
 
@@ -21,9 +22,10 @@ Una vez lo tengas todo instalado, empieza por estas tareas:
     - [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md) <!--para hacerte una primera idea de qué es todo esto de git-->
     - [Guía de Git para comunicadores, organizaciones sociales y cocineros en general](https://comunicacionabierta.net/2017/02/git-comunicadores-sociales/)
     - [Pro Git. Inicio: sobre el control de versiones](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones)
-3. Descarga [git-it](https://github.com/jlord/git-it-electron/releases/tag/4.4.0) y completa el tutorial. Cuando acabes esto (y aparezca tu nombre [en el sitio web del tutorial](http://jlord.us/patchwork/)) ya tienes los conocimentos básicos que te harán falta para manejarte con git durante este semestre
+<!-- 3. Descarga [git-it](https://github.com/jlord/git-it-electron/releases/tag/4.4.0) y completa el tutorial. Cuando acabes esto (y aparezca tu nombre [en el sitio web del tutorial](http://jlord.us/patchwork/)) ya tienes los conocimentos básicos que te harán falta para manejarte con git durante este semestre -->
 <!-- 4. Entrega dos capturas de pantalla que muestren que has completado ambos tutoriales en [la tarea de ALUD](https://alud.deusto.es/mod/assign/view.php?id=377357) -->
-5. Revisa la [sintaxis de Markdown](markdown.md)
+<!-- 5. Revisa la [sintaxis de Markdown](markdown.md) -->
+2. Realiza el itinerario de aprendizaje [Primeros pasos con GitHub](https://lab.github.com/DeustoPWEB/primeros-pasos-en-github). Al finalizarlo estarás en condiciones de gestionar tus entregas, tanto individuales como en grupo, con GitHub.
 
 <!-- Más lecturas:    - [Siete formas de usar GitHub sin saber "picar código"](https://geekytheory.com/siete-maneras-de-usar-github)
     - [GitHub tutorials and resources for journalists](https://www.poynter.org/reporting-editing/2015/github-tutorials-and-resources-for-journalists/)
@@ -52,6 +54,8 @@ El trabajo del contenido adicional que realizaréis en grupos expertos se recoge
 
 <!--     - [Learning Lab Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) (en inglés) -->
 
+
+<!-- 
 <div class="tareas" markdown="1">
 <i class="fa fa-tasks"></i>
 
@@ -63,17 +67,17 @@ El trabajo del contenido adicional que realizaréis en grupos expertos se recoge
 - consultar estos manuales online: [Introducción a XHTML](https://uniwebsidad.com/libros/xhtml) e [Introducción a CSS](https://uniwebsidad.com/libros/css)
 
 </div>
-
+-->
 
 ## Índice de contenidos de este repositorio
 
 <!-- - [Instrucciones para actualizar tu fork](actualizar-fork.md) cada vez que se incorporen cambios en un repositorio central -->
 - [Git para usuarios de Dropbox (o Google Drive)](git-para-usuarios-dropbox.md)
 - [Glosario de términos](glosario.md) relacionados con git y GitHub, con traducción y descripción
-- [¿Qué es Markdown y por qué los periodistas lo usan?](markdown-periodistas.ms) 
 - [Guía de sintaxis de Markdown](markdown.md) para editar documentos de texto plano
-- [Configuración de Sublime Text](sublime-config.md) para trabajar más cómodamente con documentos en formato Markdown
-- Los directorios `_layouts` y `assets`, y el archivo `_config.yml`, configuran la personalización de [la versión _sitio web_ de este repositorio](http://deustopweb2017.github.io)
+- [¿Qué es Markdown y por qué los periodistas lo usan?](markdown-periodistas.ms) 
+<!-- - [Configuración de Sublime Text](sublime-config.md) para trabajar más cómodamente con documentos en formato Markdown -->
+- Los directorios `_layouts` y `assets`, y el archivo `_config.yml`, configuran la personalización de [la versión _sitio web_ de este repositorio](http://deustopweb2020.github.io)
 
 <!-- - [Introducción a GitHub](http://mrn.bz/pweb-intro-github): presentación de iniciación, incluye una serie de [tutoriales introductorios de GitHub](https://services.github.com/on-demand/) -->
 <!-- - [Listado de estudiantes](estudiantes1718.md) para este curso 2017-2018, [instrucciones](estudiantes1718-instrucciones.md) para añadir tu nombre
